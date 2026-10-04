@@ -214,4 +214,4 @@ Virtual DJ Studio is offered as a complete free version, with all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 22:30:23 UTC
+**Last updated:** 2026-10-04 02:12:25 UTC
